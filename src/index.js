@@ -49,3 +49,9 @@ persona3:{
 for (const [key,valor] of Object.entries(personas)){
     console.log(valor.amigos);
 }
+
+/*formas de recorrer una lista de Objectos
+1)Object.entries(nos permite recorrer)
+2)Object.keys(nos permite una llave para recorrer los Objectos)
+3)Object.value(nos pasa los valores del los Objectos
+*/
